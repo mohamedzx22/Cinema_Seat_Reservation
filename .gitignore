@@ -1,0 +1,19 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Build files
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Solution files
+*.sln.docstates
+
+# Nuget packages
+packages/
+
+# F# specific
+*.fsproj.user
