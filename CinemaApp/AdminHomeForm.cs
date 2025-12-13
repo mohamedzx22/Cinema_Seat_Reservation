@@ -42,6 +42,13 @@ namespace CinemaApp
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+        private void btnAddShowTime_Click(object sender, EventArgs e)
+        {
+            AddShowTimeForm add = new AddShowTimeForm(); // بدون arguments
+            add.ShowDialog();
+        }
+
+
 
         private void btnLogout_Click(object sender, EventArgs e)
         {

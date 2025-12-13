@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\Cinema_Seat_Reservation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\viewmoviesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\movieseatsform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\movieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\adminhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF15753-868E-5C5F-2F2F-2C05B8EA449F}|..\\CinemaApp\\CinemaApp\\CinemaApp\\CinemaApp.csproj|c:\\users\\dell\\desktop\\fcaih\\level 7\\pl3\\cinemaapp\\cinemaapp\\cinemaapp\\addmoviewithshowtimeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewMoviesForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\ViewMoviesForm.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\ViewMoviesForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\ViewMoviesForm.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\ViewMoviesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:07:30.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\UserHomePage.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\UserHomePage.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\UserHomePage.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\UserHomePage.cs",
+              "ViewState": "AgIAAB4CAAAAAAAAAAAAAAgCAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:07:25.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\RegisterForm.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\RegisterForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:07:08.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\Program.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:07:05.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieSeatsForm .cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\MovieSeatsForm .cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\MovieSeatsForm .cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\MovieSeatsForm .cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\MovieSeatsForm .cs",
+              "ViewState": "AgIAALMBAAAAAAAAAAAYwLQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:07:04.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\MovieForm.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\MovieForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\MovieForm.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\MovieForm.cs",
+              "ViewState": "AgIAAFQCAAAAAAAAAAA7wEcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:07:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\LoginForm.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\LoginForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:06:59.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\Form1.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:06:56.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminHomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\AdminHomeForm.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\AdminHomeForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\AdminHomeForm.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\AdminHomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:06:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddMovieWithShowTimeForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\AddMovieWithShowTimeForm.cs",
+              "RelativeDocumentMoniker": "..\\CinemaApp\\CinemaApp\\CinemaApp\\AddMovieWithShowTimeForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FCAIH\\Level 7\\PL3\\CinemaApp\\CinemaApp\\CinemaApp\\AddMovieWithShowTimeForm.cs",
+              "RelativeToolTip": "..\\CinemaApp\\CinemaApp\\CinemaApp\\AddMovieWithShowTimeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:06:51.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
